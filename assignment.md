@@ -154,12 +154,5 @@ Each group will:
 
 <img width="934" height="425" alt="image" src="https://github.com/user-attachments/assets/fbd1cdb8-4643-43bc-81f7-65e8a1c94f31" />
 
-## 📖 Related Article
-
-I wrote a detailed guide on installing GitHub Desktop for data analysis projects.  
-You can read it on Dev.to here:
-
-[How to Install GitHub Desktop for Data Analysis Projects](https://dev.to/collins_muindi/how-to-install-github-desktop-for-data-analysis-projects-4j51)
-
 <img width="918" height="422" alt="image" src="https://github.com/user-attachments/assets/5861721b-afac-4cac-b987-87ee1067964c" />
 
